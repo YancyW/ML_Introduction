@@ -20,3 +20,6 @@
 ### Stanford::SAIL（Stanford Artificial Intelligence Laboratory）
 ### Carnegie Mellon University
 ### University of Illinoisat Urbana-Champaign(UIUC)
+
+# New development in 2019
+
